@@ -1,0 +1,12 @@
+{
+  "name": "galahad",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/glhd/galahad.git",
+  "author": "Chris Morrell <chris@cmorrell.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
+  },
+}

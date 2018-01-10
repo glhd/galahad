@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/glhd/galahad.git",
+  "author": "Chris Morrell <chris@cmorrell.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
